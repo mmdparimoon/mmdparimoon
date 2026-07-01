@@ -1,16 +1,25 @@
-## Hi there 👋
+# Mohammad Parimoon
 
-<!--
-**mmdparimoon/mmdparimoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Student in Organic Chemistry
 
-Here are some ideas to get you started:
+Backend Developer (Django)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI for Drug Discovery
+
+## Current Learning
+
+- Django
+- Django REST Framework
+- PostgreSQL
+- Docker
+
+## Research Interests
+
+- Graph Neural Networks
+- Drug Discovery
+- Deep Learning
+- Computational Chemistry
+
+## Contact
+
+Email: pythonparimoon@gmail.com
