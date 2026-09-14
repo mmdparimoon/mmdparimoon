@@ -6,9 +6,9 @@ Backend Developer (Django)
 
 AI for Drug Discovery
 
-## Current Learning
+## Current Learning AND LEARNED
 
-- Django
+- Django (Done)
 - Django REST Framework
 - PostgreSQL
 - Docker
