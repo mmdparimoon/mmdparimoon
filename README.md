@@ -20,9 +20,9 @@
 
 ![mmdparimoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmdparimoon&show_icons=true&theme=default)
 
-PhD Student in Organic Chemistry
-Backend Developer (Django)
-AI for Drug Discovery
+-PhD Student in Organic Chemistry
+-Backend Developer (Django)
+-AI for Drug Discovery
 ## Current Learning AND LEARNED
 - Django (Done)
 - Django REST Framework
