@@ -1,4 +1,18 @@
 # Mohammad Parimoon
+### 🛠️ Tech Stack
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+
+
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 PhD Student in Organic Chemistry
 
@@ -23,20 +37,7 @@ AI for Drug Discovery
 ## Contact
 
 Email: pythonparimoon@gmail.com
-### 🛠️ Tech Stack
 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
-
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-
-
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 
 
